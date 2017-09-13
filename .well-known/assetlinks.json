@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.egeio.fangcloud",
+    "sha256_cert_fingerprints":
+    ["E7:1B:22:6C:FB:A5:2D:3A:9C:C7:66:91:CC:DD:FE:31:83:58:B4:56:65:05:79:56:92:3E:4A:01:F2:FC:BB:05"]
+  }
+}]
